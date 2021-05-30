@@ -1,0 +1,52 @@
+{
+  "name": "com.chitransh.club",
+  "displayName": "HelloCordova",
+  "version": "1.0.0",
+  "description": "A sample Apache Cordova application that responds to the deviceready event.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "Apache Cordova Team",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "cordova-android": "^8.1.0",
+    "cordova-ios": "^5.1.1",
+    "cordova-plugin-device": "^2.0.3",
+    "cordova-plugin-dialogs": "^2.0.2",
+    "cordova-plugin-firebase-lib": "^5.1.1",
+    "cordova-plugin-inappbrowser": "^3.2.0",
+    "cordova-plugin-network-information": "^2.0.2",
+    "cordova-plugin-screen-orientation": "^3.0.2",
+    "cordova-plugin-splashscreen": "^5.0.3",
+    "cordova-plugin-unique-device-id2": "^2.0.0",
+    "cordova-unique-device-id": "^1.3.2",
+    "es6-promise-plugin": "^4.2.2",
+    "firebase": "^7.14.2",
+    "nodemailer": "^6.4.6",
+    "nodemailer-smtp-transport": "^2.7.4"
+  },
+  "devDependencies": {
+    "cordova-plugin-whitelist": "^1.3.4"
+  },
+  "cordova": {
+    "plugins": {
+      "cordova-plugin-whitelist": {},
+      "NetworkStatus": {},
+      "cordova-plugin-network-information": {},
+      "cordova-plugin-splashscreen": {},
+      "cordova-plugin-dialogs": {},
+      "cordova-plugin-firebase-lib": {},
+      "cordova-plugin-device": {},
+      "cordova-unique-device-id": {},
+      "cordova-plugin-screen-orientation": {},
+      "cordova-plugin-inappbrowser": {}
+    },
+    "platforms": [
+      "android"
+    ]
+  }
+}

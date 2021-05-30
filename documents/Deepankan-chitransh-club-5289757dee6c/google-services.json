@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "718717916102",
+    "firebase_url": "https://chitransh-club.firebaseio.com",
+    "project_id": "chitransh-club",
+    "storage_bucket": "chitransh-club.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718717916102:android:5d009b924ff163873298c7",
+        "android_client_info": {
+          "package_name": "com.chitransh.club"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718717916102-jljoucok3a16r0gn3ag37c8rp01pa1t6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsWnZwYyMiQqfA5U8trfZ-3_6smnm9gkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718717916102-jljoucok3a16r0gn3ag37c8rp01pa1t6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
